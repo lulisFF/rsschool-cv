@@ -57,7 +57,7 @@ function slot(s){
 
 ### Courses:
 * HTML and CSS on the w3schools (learning is in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 0» (learning is in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (learning is in progress)
 
 ***
 
