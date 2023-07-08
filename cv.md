@@ -2,7 +2,7 @@
 
 ## Vyacheslav Shcherbakov
 
-![Face](https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h12/h9f/32773047451678/lefard-england-collection-8096-7sm-101082496-1.jpg)
+![Face](assets/images/SL_purple.png)
 
 ***
 
